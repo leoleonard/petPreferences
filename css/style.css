@@ -1,0 +1,8 @@
+body {
+  background-color: #51b3ff;
+  color: #fff;
+}
+
+.hide-me {
+  display: none;
+}
